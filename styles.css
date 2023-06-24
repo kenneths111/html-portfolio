@@ -17,13 +17,15 @@ h1 {
   margin: 30px;
   font-family: "Calibri";
   text-shadow: 5px 0 #232931;
-  font-size: 8rem;
+  font-size: 10rem;
   color: #4ecca3;
+  min-height: 400px;
 }
 
 p {
-  font-size: 2rem;
+  font-size: 3rem;
   color: #4ecca3;
+  font-size: 5rem;
   font-family: "Indie Flower", cursive;
 }
 
@@ -32,6 +34,7 @@ img {
 }
 
 footer {
+  font-size: 5rem;
   margin-top: 5%;
   color: #eeeeee;
   text-align: center;

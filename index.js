@@ -1,6 +1,6 @@
 var sum;
 
-var yes = ["tks", "pls proceed", "proceed", "tk", "k. tks."];
+var yes = ["tks", "pls proceed", "proceed", "tk\n", "k. tks."];
 
 var no = ["see me", "let's discuss", "edits pls"];
 
