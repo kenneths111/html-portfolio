@@ -1,8 +1,23 @@
 var sum;
-
-var yes = ["tks", "pls proceed", "proceed", "tk\n", "k. tks."];
-
-var no = ["see me", "let's discuss", "edits pls"];
+var yes = [
+  "tks",
+  "pls proceed",
+  "proceed",
+  "tk",
+  "k. tks.",
+  "good work.",
+  "good",
+  "k",
+  "approved",
+];
+var no = [
+  "see me",
+  "let's discuss",
+  "edits pls",
+  "see comments",
+  "comments below",
+  "pls study further",
+];
 
 document.addEventListener("click", function () {
   rollDice();
