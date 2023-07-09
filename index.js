@@ -1,27 +1,16 @@
 var sum;
 var yes = [
-  "tks",
-  "pls proceed",
-  "proceed",
-  "tk",
+  "proceed pl",
   "k. tks.",
-  "good work.",
-  "good",
-  "k",
   "approved",
+  "tks <eom>",
+  "good work [insert name]",
 ];
-var no = [
-  "see me",
-  "let's discuss",
-  "edits pls",
-  "see comments",
-  "comments below",
-  "pls study further",
-];
+var no = ["see me", "let's discuss", "edits pls", "comments pl"];
 
 document.addEventListener("click", function () {
   rollDice();
-  setTimeout(recommendation, 1500);
+  setTimeout(recommendation, 1200);
 });
 
 function recommendation() {
