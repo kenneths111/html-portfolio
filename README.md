@@ -1,2 +1,2 @@
 # html-portfolio
-To test deploying html on Github
+Creating a simple frontend website that can be accessed on: https://kenneths111.github.io/html-portfolio/
